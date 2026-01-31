@@ -73,4 +73,5 @@ The project includes a complete flowchart covering:
 - Buyer crop selection and order flow  
 - Consumer shop purchase flow  
 
-User flows are visualized in:
+User flows are visualized in: 03-user-flows/GreenGroves Flowchart.png
+
